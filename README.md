@@ -8,7 +8,7 @@ Spring BootのExecutable JARのサンプルコードです。
 * Linuxサービスに登録して、OS起動時に起動すること。
     * `.conf`が読み込まれること。
 
-* Mavenプロジェクトを作成
+## Mavenプロジェクトを作成
 
 ```
 mvn -B archetype:generate \
